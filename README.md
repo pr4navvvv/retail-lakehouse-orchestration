@@ -289,6 +289,4 @@ Python dependencies (`requirements.txt`): `airflow-operators`, `apache-airflow`,
 
 This Docker Compose configuration is meant for local development. Do not use it as-is in production.
 
-## License
 
-Add a license (for example MIT) before publishing.
