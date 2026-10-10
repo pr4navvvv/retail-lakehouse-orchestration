@@ -214,6 +214,31 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# --- Project-specific ---
+
+# Airflow (generated config contains secrets)
+config/airflow.cfg
+simple_auth_manager_passwords.json.generated
+standalone_admin_password.txt
+airflow.db
+airflow-webserver.pid
+logs/
+
+# dbt
+walmart_project/target/
+walmart_project/logs/
+walmart_project/dbt_packages/
+walmart_project/profiles.yml
+.user.yml
+
+# Databricks
+.databricks/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
 __marimo__/
 
 # Streamlit
