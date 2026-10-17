@@ -1,6 +1,3 @@
-# retail-lakehouse-orchestration
-End-to-end retail data engineering pipeline integrating CDC and AWS S3 ingestion into Databricks Delta Lake, Bronze-Silver-Gold transformations using dbt, dimensional modeling, snapshots, and data quality tests, orchestrated by Apache Airflow 3 on Docker with CeleryExecutor and Redis for scalable, analytics-ready data processing.
-
 # Walmart Retail Data Platform: Airflow + dbt + Databricks
 
 An end-to-end data engineering project on Walmart-style retail data. Changes from a Postgres-compatible database (via CDC) and files from AWS S3 land as Delta tables on Databricks. A PySpark job upserts them into a bronze layer, dbt transforms them through silver and gold layers (with tests as quality gates), and Apache Airflow orchestrates the whole flow in Docker.
