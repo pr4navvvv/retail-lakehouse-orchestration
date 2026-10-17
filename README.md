@@ -7,7 +7,8 @@ An end-to-end data engineering project on Walmart-style retail data. Changes fro
 
 ## Architecture
 
-<img width="100%" alt="Retail Data Engineering Platform Architecture" src="https://github.com/user-attachments/assets/ac8905d4-6f4c-46fb-b634-e1f0e480c8c6" />
+<img width="100%" alt="Retail Data Engineering Platform Architecture" src="<img width="1536" height="1024" alt="Retail Data Engineering Platform Architecture (1)" src="https://github.com/user-attachments/assets/5e003b90-b1ef-4f8f-9396-09af7689fbfe" />
+" />
 
 ## Table of contents
 
